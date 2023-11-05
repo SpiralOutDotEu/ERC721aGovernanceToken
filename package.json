@@ -1,0 +1,18 @@
+{
+  "name": "erc721a-governance-token",
+  "version": "1.0.0",
+  "description": "An ERC721a token with voting rights",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "keywords": [
+    "solidity",
+    "NFT",
+    "ERC721",
+    "ERC721a",
+    "token"
+  ],
+  "author": "Jumaru",
+  "license": "MIT"
+}
