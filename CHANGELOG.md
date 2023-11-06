@@ -1,3 +1,13 @@
+## [1.0.3](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/compare/v1.0.2...v1.0.3) (2023-11-06)
+
+
+### Bug Fixes
+
+* :bug: Remove plugin npm publish ([544de7c](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/commit/544de7c73b0c0dd9abe790dd00ac0089e5eaa2b6))
+* :construction_worker: Add NODE_AUTH_TOKEN variable ([e3f959c](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/commit/e3f959c29df07e5d38b41c8b2938e507749d438f))
+* :construction_worker: Change order of environment variables ([8e4dcca](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/commit/8e4dcca1a83198a292432c3f98e9eea5239c227b))
+* :construction_worker: Use @semantic-release/npm plugin for publishing ([2a82d7a](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/commit/2a82d7adb24e5524bf116273dee58a35398f8c0b))
+
 ## [1.0.2](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/compare/v1.0.1...v1.0.2) (2023-11-06)
 
 
