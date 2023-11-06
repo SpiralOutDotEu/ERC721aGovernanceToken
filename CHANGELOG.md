@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/compare/v1.0.0...v1.0.1) (2023-11-06)
+
+
+### Bug Fixes
+
+* :bug: Sync lock ([0070935](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/commit/00709356f2c82f627765495e63461b1229d6f84c))
+* :bug: Update lock with npm install ([bf1669f](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/commit/bf1669f9be01d866cf74eccdaa22d6a6e0f4e0e1))
+* :bug: Update npm registry auth option ([b1351c9](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/commit/b1351c986387afa430e234b445f13713415d8620))
+
 # 1.0.0 (2023-11-06)
 
 
