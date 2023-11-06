@@ -11,9 +11,7 @@ fi
 # Update package.json
 sed -i "s/\"version\": \".*\"/\"version\": \"$NEW_VERSION\"/" package.json
 
-# Update package-lock.json only if it exists
-if [ -f "package-lock.json" ]; then
-    sed -i "s/\"version\": \".*\"/\"version\": \"$NEW_VERSION\"/" package-lock.json
-fi
+# Update package-lock.json
+npm install
 
 echo "Version updated to $NEW_VERSION"
