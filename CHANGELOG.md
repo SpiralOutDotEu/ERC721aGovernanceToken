@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/compare/v1.0.1...v1.0.2) (2023-11-06)
+
+
+### Bug Fixes
+
+* :construction_worker: Concat and simplify action steps ([884b431](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/commit/884b4313e3a563a86c04d5765f7799af60be64df))
+
 ## [1.0.1](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/compare/v1.0.0...v1.0.1) (2023-11-06)
 
 
