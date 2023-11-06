@@ -4,7 +4,11 @@
   "description": "An ERC721a token with voting rights",
   "main": "index.js",
   "scripts": {
-    "test": "npx hardhat test"
+    "test": "npx hardhat test",
+    "lint": "npm run lint:js && npm run lint:sol",
+    "lint:js": "eslint --ignore-path .gitignore . --fix",
+    "lint:sol": "prettier --write \"contracts/**/*.sol\"",
+    "prettier": "prettier --write --plugin=prettier-plugin-solidity 'contracts/**/*.sol'"
   },
   "keywords": [
     "solidity",
@@ -17,8 +21,13 @@
   "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "eslint": "^8.53.0",
+    "eslint-plugin-mocha": "^10.2.0",
+    "eslint-plugin-node": "^11.1.0",
     "hardhat": "^2.19.0",
-    "mocha": "^10.2.0"
+    "mocha": "^10.2.0",
+    "prettier": "^3.0.3",
+    "prettier-plugin-solidity": "^1.1.3"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^5.0.0",
