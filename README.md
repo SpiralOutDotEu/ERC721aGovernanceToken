@@ -23,7 +23,7 @@ yarn add erc721a-governance-token
 
 To use this library in your project, import it into your Solidity contract:
 ```js
-import "@your-org/erc721a-governance-token/contracts/ERC721aGovernanceToken.sol";
+import "erc721a-governance-token/contracts/ERC721aGovernanceToken.sol";
 
 contract YourContract is ERC721aGovernanceToken {
   // your contract code
