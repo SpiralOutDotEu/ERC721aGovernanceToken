@@ -1,6 +1,6 @@
 {
   "name": "erc721a-governance-token",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "An ERC721a token with voting rights",
   "repository": "https://github.com/SpiralOutDotEu/ERC721aGovernanceToken",
   "main": "index.js",
