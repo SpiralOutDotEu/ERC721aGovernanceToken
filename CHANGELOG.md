@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/compare/v1.0.3...v1.0.4) (2023-11-06)
+
+
+### Bug Fixes
+
+* :bug: Inline NPM_TOKEN ([d7b72d6](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/commit/d7b72d668880a35fceff97947c8848cc3e840f74))
+
 ## [1.0.3](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/compare/v1.0.2...v1.0.3) (2023-11-06)
 
 
