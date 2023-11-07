@@ -3,6 +3,7 @@
 [![codecov](https://codecov.io/gh/SpiralOutDotEu/ERC721aGovernanceToken/graph/badge.svg?token=IPH9AJXRLC)](https://codecov.io/gh/SpiralOutDotEu/ERC721aGovernanceToken)
 ![Tests](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/actions/workflows/test.yml/badge.svg)
 ![slither](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/actions/workflows/slither_analysis.yml/badge.svg)
+[![Open Sample with Remix](https://img.shields.io/badge/Remix-Open%20Sample-blue)](https://remix.ethereum.org/#url=https://gist.githubusercontent.com/SpiralOutDotEu/1a57cfeabb06dd3691aa6e80f482507a/raw/e31da5698bc83829c7ef18381b380fdb83b4f228/TheToken.sol&lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.20+commit.a1b79de6.js)
 
 `ERC721aGovernanceToken` is a Solidity library that equips `ERC721A` tokens with `Open Zeppelin` governance capabilities. It leverages the ERC721A implementation for efficient batch minting, significantly reducing gas costs. This makes it ideal for projects requiring NFTs with voting powers and an emphasis on cost-efficient minting.
 
@@ -33,6 +34,8 @@ contract YourContract is ERC721aGovernanceToken {
   // your contract code
 }
 ```
+[![Open Sample with Remix](https://img.shields.io/badge/Remix-Open%20Sample-blue)](https://remix.ethereum.org/#url=https://gist.githubusercontent.com/SpiralOutDotEu/1a57cfeabb06dd3691aa6e80f482507a/raw/e31da5698bc83829c7ef18381b380fdb83b4f228/TheToken.sol&lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.20+commit.a1b79de6.js)
+
 Follow Open Zeppelin's guide on [HOW TO SET UP ON-CHAIN GOVERNANCE](https://docs.openzeppelin.com/contracts/5.x/governance#governor) for instructions on how to proceed from here and build your DAO.
 
 # Running Tests
