@@ -49,7 +49,7 @@ npm run lint
 # Contributing
 Contributions are welcome! Please submit an issue or a PR.
 
-# Licence
+# License
 
 This project is licensed under the [MIT License](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/blob/master/LICENCE).
 
