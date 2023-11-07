@@ -19,5 +19,5 @@ jobs:
         shell: bash
       - name: Test & Coverage
         run: |
-          npx hardhat test &
+          npx hardhat test
           npx harhat coverage
