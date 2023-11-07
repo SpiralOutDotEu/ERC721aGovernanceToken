@@ -1,6 +1,7 @@
 # ERC721a Governance Token
 ## An ERC721a token with voting rights
 [![codecov](https://codecov.io/gh/SpiralOutDotEu/ERC721aGovernanceToken/graph/badge.svg?token=IPH9AJXRLC)](https://codecov.io/gh/SpiralOutDotEu/ERC721aGovernanceToken)
+![slither](https://github.com/SpiralOutDotEu/ERC721aGovernanceToken/actions/workflows/slither_analysis.yml/badge.svg)
 
 `ERC721aGovernanceToken` is a Solidity library that equips `ERC721A` tokens with `Open Zeppelin` governance capabilities. It leverages the ERC721A implementation for efficient batch minting, significantly reducing gas costs. This makes it ideal for projects requiring NFTs with voting powers and an emphasis on cost-efficient minting.
 
