@@ -20,4 +20,4 @@ jobs:
       - name: Test & Coverage
         run: |
           npx hardhat test
-          npx harhat coverage
+          npx hardhat coverage
